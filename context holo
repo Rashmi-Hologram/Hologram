@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T00:53:44.747Z" agent="5.0 (Macintosh)" etag="LKO0kzvNsRphNMF-9L7A" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T00:57:39.615Z" agent="5.0 (Macintosh)" etag="KppiyeYK0RLwZvDDag4U" version="13.10.6" type="github">
   <diagram id="MBxSq2OHtAFTPmTFBWjZ" name="Page-1">
-    <mxGraphModel dx="946" dy="1820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,14 +173,8 @@
         <mxCell id="sBGM1hw-IZz_73lkz6HO-32" value="active subscriptions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="93" y="293" width="115" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sBGM1hw-IZz_73lkz6HO-33" value="individual and total amount spent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="578" y="-77" width="190" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="sBGM1hw-IZz_73lkz6HO-34" value="cancellation options" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="217" y="274" width="115" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="sBGM1hw-IZz_73lkz6HO-35" value="subscription confirmation&lt;br&gt;&amp;nbsp;notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="593" y="-117" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBGM1hw-IZz_73lkz6HO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -408,6 +402,35 @@
               <mxPoint x="113" y="154" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4yWpfHXqB7SBYaF6lqpV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;exitX=-0.012;exitY=0.13;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.64" y="121" as="targetPoint" />
+            <mxPoint x="372.36" y="168.00000000000006" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="372.64" y="160" />
+              <mxPoint x="209.64" y="160" />
+              <mxPoint x="209.64" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yWpfHXqB7SBYaF6lqpV-15" value="amount spent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="83" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="4yWpfHXqB7SBYaF6lqpV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sBGM1hw-IZz_73lkz6HO-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="553" y="323" as="targetPoint" />
+            <mxPoint x="854" y="117" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="839" y="90" />
+              <mxPoint x="839" y="335" />
+              <mxPoint x="553" y="335" />
+              <mxPoint x="553" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yWpfHXqB7SBYaF6lqpV-18" value="&lt;div&gt;subscription &lt;br&gt;&lt;/div&gt;&lt;div&gt;confirmation notification&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="187" width="136" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
