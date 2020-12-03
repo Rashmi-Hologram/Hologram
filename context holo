@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T00:32:48.930Z" agent="5.0 (Macintosh)" etag="NxA-KFIh9g6cR6GsO3Pv" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T00:33:47.286Z" agent="5.0 (Macintosh)" etag="PF3b3OUejgRNOlqo-MbZ" version="13.10.6" type="github">
   <diagram id="MBxSq2OHtAFTPmTFBWjZ" name="Page-1">
     <mxGraphModel dx="946" dy="1820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,13 +19,16 @@
         <mxCell id="sBGM1hw-IZz_73lkz6HO-3" value="      &#xa;&#xa;&#xa;&#xa;         Hologram Application" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=1" parent="sBGM1hw-IZz_73lkz6HO-1" vertex="1">
           <mxGeometry y="30" width="190" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="sBGM1hw-IZz_73lkz6HO-59" value="notification for cancellation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="sBGM1hw-IZz_73lkz6HO-1" vertex="1">
+          <mxGeometry y="170" width="190" as="geometry" />
+        </mxCell>
         <mxCell id="sBGM1hw-IZz_73lkz6HO-4" value="&lt;b&gt;User/Customer&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="60" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sBGM1hw-IZz_73lkz6HO-5" value="&lt;b&gt;User/Customer Bank&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="340" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sBGM1hw-IZz_73lkz6HO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;" parent="1" source="sBGM1hw-IZz_73lkz6HO-7" edge="1">
+        <mxCell id="sBGM1hw-IZz_73lkz6HO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=3;" parent="1" source="sBGM1hw-IZz_73lkz6HO-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="574" y="264" as="targetPoint" />
             <Array as="points">
@@ -371,11 +374,8 @@
         <mxCell id="sBGM1hw-IZz_73lkz6HO-57" value="generate payment collection against subs ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="225" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sBGM1hw-IZz_73lkz6HO-58" value="cancellation initiated" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="240" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sBGM1hw-IZz_73lkz6HO-59" value="notification for cancellation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="270" width="160" height="20" as="geometry" />
+        <mxCell id="sBGM1hw-IZz_73lkz6HO-58" value="initiate cancellation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="248" width="111" height="18" as="geometry" />
         </mxCell>
         <mxCell id="sBGM1hw-IZz_73lkz6HO-60" value="OTT bank details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="320" width="110" height="20" as="geometry" />
