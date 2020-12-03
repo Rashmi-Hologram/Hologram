@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T00:31:34.539Z" agent="5.0 (Macintosh)" etag="LH3bnksGSXNJgudDO4WM" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T00:32:48.930Z" agent="5.0 (Macintosh)" etag="NxA-KFIh9g6cR6GsO3Pv" version="13.10.6" type="github">
   <diagram id="MBxSq2OHtAFTPmTFBWjZ" name="Page-1">
     <mxGraphModel dx="946" dy="1820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -307,7 +307,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBGM1hw-IZz_73lkz6HO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;entryX=1;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sBGM1hw-IZz_73lkz6HO-7" target="sBGM1hw-IZz_73lkz6HO-3" edge="1">
+        <mxCell id="sBGM1hw-IZz_73lkz6HO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;entryX=1;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="sBGM1hw-IZz_73lkz6HO-7" target="sBGM1hw-IZz_73lkz6HO-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="274" as="targetPoint" />
             <mxPoint x="726" y="130" as="sourcePoint" />
@@ -317,7 +317,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBGM1hw-IZz_73lkz6HO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;entryX=0.995;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.142;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sBGM1hw-IZz_73lkz6HO-7" target="sBGM1hw-IZz_73lkz6HO-3" edge="1">
+        <mxCell id="sBGM1hw-IZz_73lkz6HO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;entryX=0.995;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.142;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="1" source="sBGM1hw-IZz_73lkz6HO-7" target="sBGM1hw-IZz_73lkz6HO-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="253" as="targetPoint" />
             <mxPoint x="710" y="130" as="sourcePoint" />
@@ -327,7 +327,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBGM1hw-IZz_73lkz6HO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;entryX=1.005;entryY=0.164;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="sBGM1hw-IZz_73lkz6HO-7" target="sBGM1hw-IZz_73lkz6HO-3" edge="1">
+        <mxCell id="sBGM1hw-IZz_73lkz6HO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;entryX=1.005;entryY=0.164;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;strokeWidth=3;" parent="1" source="sBGM1hw-IZz_73lkz6HO-7" target="sBGM1hw-IZz_73lkz6HO-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579.05" y="234.94000000000005" as="targetPoint" />
             <mxPoint x="690" y="132" as="sourcePoint" />
@@ -365,8 +365,8 @@
         <mxCell id="sBGM1hw-IZz_73lkz6HO-55" value="display subscription plans" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="573" y="180" width="147" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sBGM1hw-IZz_73lkz6HO-56" value="subs order and request for subs creation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="200" width="230" height="20" as="geometry" />
+        <mxCell id="sBGM1hw-IZz_73lkz6HO-56" value="subscription order and request for its creation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="207" width="251" height="18" as="geometry" />
         </mxCell>
         <mxCell id="sBGM1hw-IZz_73lkz6HO-57" value="generate payment collection against subs ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="225" width="250" height="20" as="geometry" />
